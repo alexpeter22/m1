@@ -1,12 +1,4 @@
-Result description COMPILE TIME ERRORBikeVibe/src/Bike.java:51 error: class, interface, enum, or record expected  if (!bikeModel.matches("BKE/\d{4}")){  ^BikeVibe/src/Bike.java:53 error: class, interface, enum, or record expected  }  ^BikeVibe/src/Bike.java:56 error: class, interface, enum, or record expected  }  ^BikeVibe/src/Bike.java:59 error: class, interface, enum, or record expected  }  ^BikeVibe/src/Bike.java:61 error: class, interface, enum, or record expected  try{  ^BikeVibe/src/Bike.java:63 error: class, interface, enum, or record expected      if(bikePrice<=0){      ^BikeVibe/src/Bike.java:65 error: class, interface, enum, or record expected      }      ^BikeVibe/src/Bike.java:69 error: class, interface, enum, or record expected      }      ^BikeVibe/src/Bike.java:71 error: class, interface, enum, or record expected  }  ^9 errors--|>Grade :=>> 0 
-                                
-                                    
-                                        
-                                            
-                                        
-                                    
-                                    connecting
-                                
+
                             
                         
                     
